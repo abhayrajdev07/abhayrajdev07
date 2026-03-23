@@ -92,7 +92,7 @@
   <a href="https://www.linkedin.com/in/abhayrajpatel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="#">
+  <a href="https://cosmotrinity.com">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github">
   </a>
   <a href="#">
