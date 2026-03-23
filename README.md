@@ -10,7 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-  <li>🚀 Founder & CEO of <b>CosmoTrinity Labs</b></li>
+  <li>🚀 Founder of <b>CosmoTrinity Technology</b></li>
   <li>🛡️ Cybersecurity Analyst & Ethical Hacker</li>
   <li>💻 Full Stack Developer (MERN Stack)</li>
   <li>📱 App Developer (Flutter & React Native)</li>
