@@ -7,6 +7,28 @@
 
 <hr>
 
+<h2 align="center">🔥 Dev07 Identity</h2>
+
+<p align="center">
+  <b>“07” represents my 7 core domains of expertise:</b>
+</p>
+
+<ul>
+  <li>📱 App Developer</li>
+  <li>💻 Software Engineer</li>
+  <li>🌐 MERN Stack Developer</li>
+  <li>🛡️ Security Engineer</li>
+  <li>🤖 AI Builder</li>
+  <li>⚙️ System Designer</li>
+  <li>🚀 Tech Entrepreneur</li>
+</ul>
+
+<p align="center">
+  🚀 <b>Dev07 — Building Systems, Securing Future, Creating Impact</b>
+</p>
+
+<hr>
+
 <h2>👨‍💻 About Me</h2>
 
 <ul>
@@ -67,9 +89,15 @@
 <h2>🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhayrajpatel"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github"></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.linkedin.com/in/abhayrajpatel">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
+  </a>
 </p>
 
 <hr>
